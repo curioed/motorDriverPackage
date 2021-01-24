@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="~yy`V+g~ReJ)}e:bR#h%" x="0" y="1"/><block type="device_forever" id="2awZpx8lG8SNiVz#g)*%" x="235" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><comment id="=L?KqT3FEV`GBBCZmbHp" x="218" y="6" h="200" w="200">Left motor - M1,M2&#10;Right motor - M3, M4</comment><block type="pxt-on-start" id="9TjT3Fr9%ra.D.fUbVNv" x="14" y="10"/><block type="device_forever" id="zKwF9Xc#VL@F_@TRcUqv" x="458" y="10"/></xml>

@@ -26,7 +26,7 @@ namespace motor {
      * @param ld: Micro bit pin connected to pin en1 on the L293D
      * @param rd: Micro bit pin connected to pin en2 on the L293D
      */
-    //% block="Define Motor Pins:|i1 $lb|i2 $lf|en1 $ld|i3 $rf|i4 $rb|en2 $rd"
+    //% block="Define Motor Pins:|left motor:|i1 $lb|i2 $lf|en1 $ld|right motor:|i3 $rf|i4 $rb|en2 $rd"
     //% lf.defl=DigitalPin.P6 lb.defl=DigitalPin.P7 rf.defl=DigitalPin.P8 rb.defl=DigitalPin.P9 ld.defl=AnalogPin.P3 rd.defl=AnalogPin.P4
     export function defineMotorPins(lf:DigitalPin, lb:DigitalPin, rf:DigitalPin, rb:DigitalPin, ld:AnalogPin, rd:AnalogPin): void {
         i2=lf
